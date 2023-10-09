@@ -1,1 +1,1 @@
-# odin-recipes
+This project is to practise HTML Knowledge

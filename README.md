@@ -1,1 +1,1 @@
-This project is to practise HTML Knowledge
+This project was only HTML practise but I am now adding CSS to it.
